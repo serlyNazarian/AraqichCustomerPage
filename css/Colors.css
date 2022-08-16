@@ -1,0 +1,57 @@
+.Color-Yellow {
+  color: #f4c563;
+  background-color: rgba(244, 197, 99, 0.15);
+}
+
+.Color-Purple {
+    color: #8247FF;
+    background-color: rgba(130, 71, 255, 0.15);
+}
+
+.Color-Green {
+    color: #9FCC6B;
+    background-color: rgba(159, 204, 107, 0.15);
+}
+
+.Color-Blue {
+    color: #268AFF;
+    background-color: rgba(38, 138, 255, 0.15);
+}
+
+.Color-Grey {
+    /* color: #F4F5F7; */
+    background-color: #F4F5F7;
+}
+
+.Text-Color-Grey {
+    color: #767676;
+}
+
+.Color-Black {
+    color: #272727;
+}
+
+.Color-Darker-Blue {
+    color: #585DFF;
+    background-color: rgba(88, 93, 255, 0.15);
+}
+
+.Icons-Grey {
+    color: #A7A6B7;
+}
+
+.Text-Color-Black {
+    color: #272727;
+}
+
+.Number-Color-Black {
+    color: #0E0E0E;
+}
+
+.Color-White {
+    color: #FFFFFF;
+}
+
+.Search-Grey {
+    color: rgba(19, 15, 38, 0.50);
+}

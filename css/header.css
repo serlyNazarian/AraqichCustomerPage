@@ -1,0 +1,22 @@
+header {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e5e5e5;
+}
+
+header p {
+  font-size: large;
+  flex: 1;
+  color: #a7a6b7;
+  margin-left: 15px;
+}
+
+.Header-Icons {
+  color: #a7a6b7;
+  font-size: 32px;
+  cursor: pointer;
+  margin-right: 20px;
+}
