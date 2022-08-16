@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Mardoto";
+    src: url(/fonts/Mardoto-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-Black";
+    src: url(/fonts/Mardoto-Black.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-BlackItalic";
+    src: url(/fonts/Mardoto-BlackItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-Bold";
+    src: url(/fonts/Mardoto-Bold.ttf) format('truetype'); 
+}
+
+@font-face {
+    font-family: "Mardoto-BoldItalic";
+    src: url(/fonts/Mardoto-BoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-Italic";
+    src: url(/fonts/Mardoto-Italic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-Light";
+    src: url(/fonts/Mardoto-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-LightItalic";
+    src: url(/fonts/Mardoto-LightItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-Medium";
+    src: url(/fonts/Mardoto-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-MediumItalic";
+    src: url(/fonts/Mardoto-MediumItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-Thin";
+    src: url(/fonts/Mardoto-Thin.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Mardoto-ThinItalic";
+    src: url(/fonts/Mardoto-ThinItalic.ttf) format('truetype');  
+}
