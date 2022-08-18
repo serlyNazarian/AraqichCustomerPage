@@ -3,3 +3,162 @@
   background-color: #ffffff;
   border-radius: 10px;
 }
+
+.Middle-Header {
+  margin-left: 10px;
+}
+
+.Header-Title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.Header-Left {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+.Middle-Icon {
+  font-size: 30px;
+}
+
+.Header-Left p {
+  margin-left: 10px;
+}
+
+.green-div {
+  margin-left: 10px;
+  width: 81px;
+  height: 22px;
+  border-radius: 15px;
+  font-size: 12px;
+  color: white !important;
+  background-color: rgba(159, 204, 107, 1) !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Header-Text {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.Header-Right {
+  margin-right: 10px;
+}
+
+.Header-Info {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  justify-content: space-between;
+  width: 70%;
+}
+
+.Info-Left {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+}
+
+.Info-Right {
+  display: flex;
+  flex-direction: column;
+}
+
+.Left-Header {
+  margin-bottom: 10px;
+}
+
+.Left-Header span {
+  margin-left: 10px;
+}
+
+.Yellow-Div {
+  color: white;
+  background-color: #f4c563;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-size: 12px;
+  font-weight: 700;
+  width: 220px;
+  height: 25px;
+  padding-top: 5px;
+  margin-left: 5px;
+}
+
+.Middle-List {
+  margin: 10px;
+  /* background-color: red; */
+  /* background-color: red;
+  width: 80%;
+  margin-left: 100px; */
+  overflow-y: scroll;
+  /* overflow-x: hidden; */
+  height: 60%;
+}
+
+.List-Item {
+  display: flex;
+  flex-direction: row;
+  height: 60px;
+  border-bottom: 2px solid #e6e8ec;
+  margin: 10px;
+  /* margin-left: 50px; */
+}
+
+.first-img {
+  width: 70px;
+  height: 25px;
+  margin-right: 15px;
+}
+
+.List-Item-Left {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.List-Item-Right {
+  display: flex;
+  align-items: center;
+}
+
+.List-Item-Right span {
+  margin-left: 20px;
+}
+
+.second-image {
+  width: 70px;
+  height: 60px;
+}
+
+.Middle-Footer {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 15px;
+  align-items: center;
+  text-align: end;
+}
+
+.Footer-Left-Items {
+  display: flex;
+  flex-direction: column;
+  margin-right: 75px;
+}
+
+.Footer-Right-Items {
+  display: flex;
+  flex-direction: column;
+}

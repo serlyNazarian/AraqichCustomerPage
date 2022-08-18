@@ -1,13 +1,4 @@
 .Selected-Item {
-  background-color: #8247ff0d;
-  padding: 10px;
-  /* margin-top: 10px; */
-  border-radius: 10px;
-  /* margin: 10px; */
-   display: flex;
-  justify-content: space-between;
- width: 70%;
- /* background-color: red; */
- margin-top: 20px;
- margin-left: 30px;
+  background-color: rgba(130, 71, 255, 0.05);
+  border-radius: 6px;
 }

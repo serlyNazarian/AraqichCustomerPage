@@ -1,6 +1,172 @@
 .Right-Container {
-  width: 20%;
+  width: 25%;
   background-color: #ffffff;
   margin-left: 10px;
   border-radius: 10px !important;
+}
+
+.Right-Header {
+  border-bottom: 2px solid #e6e8ec;
+}
+
+.Title-Right-Header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px 15px 0 15px;
+}
+
+.Right-Header-Info {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+
+.status-div {
+  width: 75px;
+  height: 20px;
+  background-color: rgba(118, 118, 118, 0.1);
+  color: #767676;
+  margin-left: 10px;
+  font-size: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 60px;
+  font-weight: 700;
+}
+
+.Right-Header-Phone-Numbers {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.Purple-Button {
+  width: 107px;
+  height: 26px;
+  border-radius: 15px;
+  background-color: rgba(130, 71, 255, 0.15);
+  color: #8247FF;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.Right-Dates {
+  margin-left: 18px;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.Left-Date {
+  display: flex;
+  flex-direction: row;
+}
+
+.Date-Column {
+  display: flex;
+  flex-direction: column;
+}
+
+.Date-Column span {
+  margin-bottom: 5px;
+  margin-left: 8px;
+}
+
+.Blue-Clock {
+  color: #3D96FF;
+  font-size: 32px;
+}
+
+.Right-Date {
+  display: flex;
+  flex-direction: row;
+}
+
+.Yellow-Callendar {
+  color: #FFA41D;
+  font-size: 32px;
+}
+
+.Right-Loan {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.Right-Loan-Row-1 {
+  margin-bottom:15px ;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.Right-Loan-Row-2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.Left-Row {
+  width: 270px;
+  height: 8px;
+  border-radius: 10px;
+  background-color: #EA7362;
+}
+
+.Right-Row {
+  width: 90px;
+  height: 8px;
+  background-color: #F1F1F1;
+  border-radius: 10px;
+}
+
+.Right-Date-Location {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.Purple-Button-Large {
+  margin-top: 5px;
+  width: 190px;
+  height: 35px;
+  border-radius: 6px;
+  background-color: rgba(130, 71, 255, 0.15);
+  color: #8247FF;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.City-Location {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.City-Location span {
+  margin-bottom: 10px;
+}
+
+.Purple-Button-Larger {
+  width: 300px;
+  height: 50px;
+  background-color: rgba(130, 71, 255, 0.15);
+  color: #8247FF;
+  font-size: 14px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 15px;
+  margin-top: 10px;
 }
