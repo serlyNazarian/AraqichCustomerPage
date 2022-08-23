@@ -4,58 +4,62 @@
 }
 
 .Color-Purple {
-    color: #8247FF;
-    background-color: rgba(130, 71, 255, 0.15);
+  color: #8247ff;
+  background-color: rgba(130, 71, 255, 0.15);
 }
 
 .Purple {
-    color: #8247FF;
+  color: #8247ff;
 }
 
 .Color-Green {
-    color: #9FCC6B;
-    background-color: rgba(159, 204, 107, 0.15);
+  color: #9fcc6b;
+  background-color: rgba(159, 204, 107, 0.15);
 }
 
 .Color-Blue {
-    color: #268AFF;
-    background-color: rgba(38, 138, 255, 0.15);
+  color: #268aff;
+  background-color: rgba(38, 138, 255, 0.15);
 }
 
 .Color-Grey {
-    /* color: #F4F5F7; */
-    background-color: #F4F5F7;
+  /* color: #F4F5F7; */
+  background-color: #f4f5f7;
 }
 
 .Text-Color-Grey {
-    color: #767676;
+  color: #767676;
 }
 
 .Color-Black {
-    color: #272727;
+  color: #272727;
 }
 
 .Color-Darker-Blue {
-    color: #585DFF;
-    background-color: rgba(88, 93, 255, 0.15);
+  color: #585dff;
+  background-color: rgba(88, 93, 255, 0.15);
 }
 
 .Icons-Grey {
-    color: #A7A6B7;
+  color: #a7a6b7;
 }
 
 .Text-Color-Black {
-    color: #272727;
+  color: #272727;
 }
 
 .Number-Color-Black {
-    color: #0E0E0E;
+  color: #0e0e0e;
 }
 
 .Color-White {
-    color: #FFFFFF;
+  color: #ffffff;
 }
 
 .Search-Grey {
-    color: rgba(19, 15, 38, 0.50);
+  color: rgba(19, 15, 38, 0.5);
+}
+
+.Green {
+  color: #9fcc6b;
 }

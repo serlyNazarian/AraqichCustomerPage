@@ -1,8 +1,11 @@
 .Right-Container {
-  width: 25%;
+  /* width: 20%; */
+  /* width: 330px; */
+  /* width: 290px; */
   background-color: #ffffff;
   margin-left: 10px;
-  border-radius: 10px !important;
+  border-radius: 10px;
+  padding: 0 10px 0 10px;
 }
 
 .Right-Header {
@@ -49,7 +52,7 @@
   height: 26px;
   border-radius: 15px;
   background-color: rgba(130, 71, 255, 0.15);
-  color: #8247FF;
+  color: #8247ff;
   margin-left: 10px;
   display: flex;
   align-items: center;
@@ -82,7 +85,7 @@
 }
 
 .Blue-Clock {
-  color: #3D96FF;
+  color: #3d96ff;
   font-size: 32px;
 }
 
@@ -92,7 +95,7 @@
 }
 
 .Yellow-Callendar {
-  color: #FFA41D;
+  color: #ffa41d;
   font-size: 32px;
 }
 
@@ -105,7 +108,7 @@
 }
 
 .Right-Loan-Row-1 {
-  margin-bottom:15px ;
+  margin-bottom: 15px;
   display: flex;
   justify-content: space-evenly;
   width: 100%;
@@ -120,13 +123,13 @@
   width: 270px;
   height: 8px;
   border-radius: 10px;
-  background-color: #EA7362;
+  background-color: #ea7362;
 }
 
 .Right-Row {
   width: 90px;
   height: 8px;
-  background-color: #F1F1F1;
+  background-color: #f1f1f1;
   border-radius: 10px;
 }
 
@@ -141,7 +144,7 @@
   height: 35px;
   border-radius: 6px;
   background-color: rgba(130, 71, 255, 0.15);
-  color: #8247FF;
+  color: #8247ff;
   font-size: 14px;
   display: flex;
   justify-content: center;
@@ -161,7 +164,7 @@
   width: 300px;
   height: 50px;
   background-color: rgba(130, 71, 255, 0.15);
-  color: #8247FF;
+  color: #8247ff;
   font-size: 14px;
   border-radius: 6px;
   display: flex;
@@ -169,4 +172,72 @@
   align-items: center;
   padding-left: 15px;
   margin-top: 10px;
+}
+
+.budget-div {
+  padding: 10px;
+}
+
+.budget-child-div {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.margin-budget-test {
+  padding-left: 15px !important;
+}
+
+
+.border-div {
+  border-bottom: 1px solid #e1e4e8;
+  width: 150px;
+  border-right: 1px solid #e1e4e8;
+  height: 100px;
+  padding: 0;
+  margin: 0;
+
+}
+
+.border-div-2 {
+  border-left: 1px solid #e1e4e8;
+  border-top: 1px solid #e1e4e8;
+  width: 120px;
+  height: 100px;
+  padding: 0;
+  margin: 0;
+}
+
+.budget-child-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.budget-text {
+  font-weight: 400;
+  font-size: 10px;
+}
+
+.budget-price-text {
+  font-weight: 700;
+  font-size: 21px;
+}
+
+.budget-small-text {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.budget-child-div span {
+  padding-bottom: 10px;
+}
+
+.budget-first-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.budget-width-test {
+  width: 150px !important;
+  height: 100px !important;
 }
