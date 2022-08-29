@@ -24,9 +24,7 @@
   margin-top: 10px;
 }
 
-.Middle-Icon {
-  font-size: 30px;
-}
+
 
 .Header-Left p {
   margin-left: 10px;
@@ -45,10 +43,6 @@
   justify-content: center;
 }
 
-.Header-Text {
-  font-size: 16px;
-  font-weight: 400;
-}
 
 .Header-Right {
   margin-right: 10px;

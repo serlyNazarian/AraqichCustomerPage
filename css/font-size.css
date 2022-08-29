@@ -1,0 +1,50 @@
+.Title-Text {
+  font-weight: bold !important;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.Title-Text-2 {
+  font-weight: bold !important;
+  font-size: 16px;
+  margin: 0px;
+}
+
+.Heavier-Font-Weight {
+  font-weight: 700 !important;
+  margin-left: 5px;
+}
+
+.Middle-Icon {
+  font-size: 30px;
+}
+
+.Header-Text {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.budget-text {
+  font-weight: 400;
+  font-size: 10px;
+}
+
+.budget-price-text {
+  font-weight: 700;
+  font-size: 21px;
+}
+
+.budget-small-text {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.budget-small-text-2 {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.budget-small-text-3 {
+  font-weight: 700;
+  font-size: 14px;
+}

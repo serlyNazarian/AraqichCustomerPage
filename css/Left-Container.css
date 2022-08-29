@@ -48,11 +48,6 @@ p {
   height: 18px;
 }
 
-.Title-Text {
-  font-weight: bold !important;
-  font-size: 16px;
-  margin-left: 10px;
-}
 
 .Customer-Row-2 {
   display: flex;
@@ -72,9 +67,4 @@ p {
   font-size: 9px;
   padding-left: 15px;
   padding-top: 5px;
-}
-
-.Heavier-Font-Weight {
-  font-weight: 700 !important;
-  margin-left: 5px;
 }

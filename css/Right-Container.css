@@ -23,7 +23,7 @@
   display: flex;
   flex-direction: row;
   margin-top: 20px;
-  margin-left: 25px;
+  margin-left: 14px;
 }
 
 .status-div {
@@ -53,7 +53,6 @@
   border-radius: 15px;
   background-color: rgba(130, 71, 255, 0.15);
   color: #8247ff;
-  margin-left: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -62,7 +61,6 @@
 }
 
 .Right-Dates {
-  margin-left: 18px;
   margin-top: 25px;
   display: flex;
   flex-direction: row;
@@ -110,7 +108,7 @@
 .Right-Loan-Row-1 {
   margin-bottom: 15px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   width: 100%;
 }
 
@@ -120,7 +118,7 @@
 }
 
 .Left-Row {
-  width: 270px;
+  width: 240px;
   height: 8px;
   border-radius: 10px;
   background-color: #ea7362;
@@ -179,7 +177,7 @@
 }
 
 .budget-child-div {
-  margin-top: 15px;
+  margin-top: 5px;
   display: flex;
   flex-direction: column;
 }
@@ -208,25 +206,14 @@
   margin: 0;
 }
 
+
+
 .budget-child-row {
   display: flex;
   flex-direction: row;
+  padding-top: 3px;
 }
 
-.budget-text {
-  font-weight: 400;
-  font-size: 10px;
-}
-
-.budget-price-text {
-  font-weight: 700;
-  font-size: 21px;
-}
-
-.budget-small-text {
-  font-weight: 400;
-  font-size: 12px;
-}
 
 .budget-child-div span {
   padding-bottom: 10px;
@@ -240,4 +227,28 @@
 .budget-width-test {
   width: 150px !important;
   height: 100px !important;
+}
+
+.extra-info-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.See-More-Btn {
+  width: 350px;
+  height: 40px;
+  border-radius: 6px;
+  background-color: #F4F5F7;
+  outline: none;
+  border: none;
+}
+
+.btn-test {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 85px;
 }
