@@ -13,14 +13,6 @@
   left: 8px;
 }
 
-.Left-Input-Row {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  margin-top: 10px;
-  margin-left: 10px;
-}
-
 .Main-Input {
   height: 100%;
   background-color: transparent;
